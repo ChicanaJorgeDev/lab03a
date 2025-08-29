@@ -14,8 +14,8 @@ Pasos para instalar y correr el proyecto...
 ## 👥 Roles y Créditos
 | Nombre | Rol | Funciones |
 |--------|-----|-----------|
-| Juan | Dev Backend | Implementó APIs |
-| Ana | Git Master | Control de versiones |
+| Jorge | Dev Backend | Implementó APIs |
+| Chicana | Git Master | Control de versiones |
 
 ## 🔄 Flujo de Trabajo en Git
 - Estructura de ramas: `feature/`, `fix/`
