@@ -23,11 +23,13 @@ Pasos para instalar y correr el proyecto...
   ```bash
   git commit -m "feat: agregar funcionalidad para eliminar producto del carrito"
 
-🖼️ Capturas de Pantalla
-🏠 Página Principal
+## 🖼️ Capturas de Pantalla
+---
+### 🏠 Página Principal
+---
 ![Página principal](./screenshots/home.png)
-🛍️ Lista de Productos
-
-🛒 Carrito de Compras
-
-✅ Confirmación de Compra
+---
+### 🛍️ Lista de Productos
+---
+### 🛒 Carrito de Compras
+---
