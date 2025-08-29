@@ -1,5 +1,5 @@
 # 🛒 Carrito de Compras – Proyecto Integrador
-
+---
 ## 📘 Descripción del Proyecto
 Breve descripción...
 
